@@ -19,20 +19,15 @@ In a world of true friends, we are introducing your own Personal Assistant Georg
 Not much people have a fake friend and we are giving you one, our on GeorgeKutty
 
 ### The Solution (that nobody asked for)
-The solution is GeorgeKutty an AI assistant that respond to your querries and questions. Be ware of him as you can't always trust him
+The solution is GeorgeKutty an AI assistant that respond to your querries and questions. Beware of him as you can't always trust him
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Python, HTML/CSS, Javascript
+- Flask
+- gpt4all, pyttsx3
+- Meta-Llama-3.2-3B
 
 ### Implementation
 For Software:
@@ -55,29 +50,6 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
@@ -87,9 +59,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abhinav Sanal: Llm tuning and chatbot creation
+- Ayishathul Rinsha: Chatbot creation and website design 
+- Deva Nandan H: Website design and backend development
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
