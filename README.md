@@ -1,19 +1,19 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# GeorgeBotKutty 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hackbots
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhinav Sanal - School of Engineering, CUSAT
+- Member 2: Ayishathul Rinsha - School of Engineering, CUSAT
+- Member 3: Deva Nandan H - School of Engineering, CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
+In a world of fake friends, we are introducing your own Personal Assistant GeorgeBotKutty aka GeorgeKutty.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
