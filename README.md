@@ -13,13 +13,13 @@
 - Member 3: Deva Nandan H - School of Engineering, CUSAT
 
 ### Project Description
-In a world of fake friends, we are introducing your own Personal Assistant GeorgeBotKutty aka GeorgeKutty.
+In a world of true friends, we are introducing your own Personal Assistant GeorgeBotKutty aka GeorgeKutty.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Not much people have a fake friend and we are giving you one, our on GeorgeKutty
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The solution is GeorgeKutty an AI assistant that respond to your querries and questions. Be ware of him as you can't always trust him
 
 ## Technical Details
 ### Technologies/Components Used
