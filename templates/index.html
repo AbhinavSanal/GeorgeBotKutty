@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>George Kutty Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">George Kutty Chatbot</div>
+        <div class="chat-body" id="chatBody"></div>
+        <div class="chat-input-container">
+            <input type="text" id="userInput" placeholder="Your message..." onkeypress="if(event.key === 'Enter') sendMessage()" />
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script>
+        // Set initial message in a global variable
+        const initialMessage = "{{ initial_message }}"; 
+    </script>
+    <script src="/static/script.js"></script>
+</body>
+</html>
 
