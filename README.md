@@ -21,7 +21,7 @@ Not much people have a fake friend and we are giving you one, our on GeorgeKutty
 ### The Solution (that nobody asked for)
 The solution is GeorgeKutty an AI assistant that respond to your querries and questions. Beware of him as you can't always trust him
 
-[link](abhinavsanal.github.io/georgebotkutty)
+[link](abhinavsanal.github.io/georgebotkutty/)
 
 ## Technical Details
 ### Technologies/Components Used
